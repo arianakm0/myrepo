@@ -1,0 +1,183 @@
+"year","geo","series_order","tipo_delito","offense_type","count"
+2000,"PR",1,"Asesinato/Homicidio","Asesinato/Homicidio",695
+2000,"PR",2,"Violación","Violación",228
+2000,"PR",3,"Robo","Robo",8757
+2000,"PR",4,"Agresión Agravada","Agresión Agravada",2726
+2000,"PR",5,"Escalamiento","Escalamiento",21057
+2000,"PR",6,"Apropiación Ilegal","Apropiación Ilegal",28940
+2000,"PR",7,"Hurto de Auto","Hurto de Auto",12976
+2001,"PR",1,"Asesinato/Homicidio","Asesinato/Homicidio",747
+2001,"PR",2,"Violación","Violación",187
+2001,"PR",3,"Robo","Robo",7999
+2001,"PR",4,"Agresión Agravada","Agresión Agravada",2473
+2001,"PR",5,"Escalamiento","Escalamiento",19931
+2001,"PR",6,"Apropiación Ilegal","Apropiación Ilegal",26140
+2001,"PR",7,"Hurto de Auto","Hurto de Auto",12643
+2002,"PR",1,"Asesinato/Homicidio","Asesinato/Homicidio",774
+2002,"PR",2,"Violación","Violación",241
+2002,"PR",3,"Robo","Robo",9005
+2002,"PR",4,"Agresión Agravada","Agresión Agravada",3489
+2002,"PR",5,"Escalamiento","Escalamiento",24863
+2002,"PR",6,"Apropiación Ilegal","Apropiación Ilegal",39869
+2002,"PR",7,"Hurto de Auto","Hurto de Auto",12982
+2003,"PR",1,"Asesinato/Homicidio","Asesinato/Homicidio",787
+2003,"PR",2,"Violación","Violación",204
+2003,"PR",3,"Robo","Robo",7737
+2003,"PR",4,"Agresión Agravada","Agresión Agravada",3165
+2003,"PR",5,"Escalamiento","Escalamiento",20857
+2003,"PR",6,"Apropiación Ilegal","Apropiación Ilegal",36827
+2003,"PR",7,"Hurto de Auto","Hurto de Auto",12211
+2004,"PR",1,"Asesinato/Homicidio","Asesinato/Homicidio",793
+2004,"PR",2,"Violación","Violación",199
+2004,"PR",3,"Robo","Robo",6030
+2004,"PR",4,"Agresión Agravada","Agresión Agravada",3023
+2004,"PR",5,"Escalamiento","Escalamiento",18264
+2004,"PR",6,"Apropiación Ilegal","Apropiación Ilegal",31681
+2004,"PR",7,"Hurto de Auto","Hurto de Auto",10128
+2005,"PR",1,"Asesinato/Homicidio","Asesinato/Homicidio",771
+2005,"PR",2,"Violación","Violación",169
+2005,"PR",3,"Robo","Robo",5550
+2005,"PR",4,"Agresión Agravada","Agresión Agravada",3094
+2005,"PR",5,"Escalamiento","Escalamiento",17191
+2005,"PR",6,"Apropiación Ilegal","Apropiación Ilegal",28976
+2005,"PR",7,"Hurto de Auto","Hurto de Auto",9299
+2006,"PR",1,"Asesinato/Homicidio","Asesinato/Homicidio",748
+2006,"PR",2,"Violación","Violación",118
+2006,"PR",3,"Robo","Robo",5245
+2006,"PR",4,"Agresión Agravada","Agresión Agravada",2827
+2006,"PR",5,"Escalamiento","Escalamiento",16668
+2006,"PR",6,"Apropiación Ilegal","Apropiación Ilegal",27936
+2006,"PR",7,"Hurto de Auto","Hurto de Auto",8593
+2007,"PR",1,"Asesinato/Homicidio","Asesinato/Homicidio",731
+2007,"PR",2,"Violación","Violación",97
+2007,"PR",3,"Robo","Robo",5134
+2007,"PR",4,"Agresión Agravada","Agresión Agravada",2983
+2007,"PR",5,"Escalamiento","Escalamiento",17160
+2007,"PR",6,"Apropiación Ilegal","Apropiación Ilegal",28955
+2007,"PR",7,"Hurto de Auto","Hurto de Auto",7822
+2008,"PR",1,"Asesinato/Homicidio","Asesinato/Homicidio",807
+2008,"PR",2,"Violación","Violación",95
+2008,"PR",3,"Robo","Robo",5467
+2008,"PR",4,"Agresión Agravada","Agresión Agravada",3115
+2008,"PR",5,"Escalamiento","Escalamiento",19138
+2008,"PR",6,"Apropiación Ilegal","Apropiación Ilegal",33113
+2008,"PR",7,"Hurto de Auto","Hurto de Auto",7003
+2009,"PR",1,"Asesinato/Homicidio","Asesinato/Homicidio",894
+2009,"PR",2,"Violación","Violación",65
+2009,"PR",3,"Robo","Robo",6093
+2009,"PR",4,"Agresión Agravada","Agresión Agravada",3440
+2009,"PR",5,"Escalamiento","Escalamiento",18521
+2009,"PR",6,"Apropiación Ilegal","Apropiación Ilegal",30584
+2009,"PR",7,"Hurto de Auto","Hurto de Auto",6832
+2010,"PR",1,"Asesinato/Homicidio","Asesinato/Homicidio",1017
+2010,"PR",2,"Violación","Violación",39
+2010,"PR",3,"Robo","Robo",6590
+2010,"PR",4,"Agresión Agravada","Agresión Agravada",2750
+2010,"PR",5,"Escalamiento","Escalamiento",17880
+2010,"PR",6,"Apropiación Ilegal","Apropiación Ilegal",27182
+2010,"PR",7,"Hurto de Auto","Hurto de Auto",6811
+2011,"PR",1,"Asesinato/Homicidio","Asesinato/Homicidio",1164
+2011,"PR",2,"Violación","Violación",45
+2011,"PR",3,"Robo","Robo",6465
+2011,"PR",4,"Agresión Agravada","Agresión Agravada",2888
+2011,"PR",5,"Escalamiento","Escalamiento",16591
+2011,"PR",6,"Apropiación Ilegal","Apropiación Ilegal",29273
+2011,"PR",7,"Hurto de Auto","Hurto de Auto",5853
+2012,"PR",1,"Asesinato/Homicidio","Asesinato/Homicidio",1004
+2012,"PR",2,"Violación","Violación",32
+2012,"PR",3,"Robo","Robo",6294
+2012,"PR",4,"Agresión Agravada","Agresión Agravada",2723
+2012,"PR",5,"Escalamiento","Escalamiento",15287
+2012,"PR",6,"Apropiación Ilegal","Apropiación Ilegal",30545
+2012,"PR",7,"Hurto de Auto","Hurto de Auto",5847
+2013,"PR",1,"Asesinato/Homicidio","Asesinato/Homicidio",902
+2013,"PR",2,"Violación","Violación",26
+2013,"PR",3,"Robo","Robo",6015
+2013,"PR",4,"Agresión Agravada","Agresión Agravada",2386
+2013,"PR",5,"Escalamiento","Escalamiento",13961
+2013,"PR",6,"Apropiación Ilegal","Apropiación Ilegal",29360
+2013,"PR",7,"Hurto de Auto","Hurto de Auto",5530
+2014,"PR",1,"Asesinato/Homicidio","Asesinato/Homicidio",700
+2014,"PR",2,"Violación","Violación",41
+2014,"PR",3,"Robo","Robo",5171
+2014,"PR",4,"Agresión Agravada","Agresión Agravada",2472
+2014,"PR",5,"Escalamiento","Escalamiento",12035
+2014,"PR",6,"Apropiación Ilegal","Apropiación Ilegal",28948
+2014,"PR",7,"Hurto de Auto","Hurto de Auto",4639
+2015,"PR",1,"Asesinato/Homicidio","Asesinato/Homicidio",619
+2015,"PR",2,"Violación","Violación",165
+2015,"PR",3,"Robo","Robo",4122
+2015,"PR",4,"Agresión Agravada","Agresión Agravada",2960
+2015,"PR",5,"Escalamiento","Escalamiento",9427
+2015,"PR",6,"Apropiación Ilegal","Apropiación Ilegal",25165
+2015,"PR",7,"Hurto de Auto","Hurto de Auto",4129
+2016,"PR",1,"Asesinato/Homicidio","Asesinato/Homicidio",680
+2016,"PR",2,"Violación","Violación",169
+2016,"PR",3,"Robo","Robo",3201
+2016,"PR",4,"Agresión Agravada","Agresión Agravada",3594
+2016,"PR",5,"Escalamiento","Escalamiento",8251
+2016,"PR",6,"Apropiación Ilegal","Apropiación Ilegal",23163
+2016,"PR",7,"Hurto de Auto","Hurto de Auto",3787
+2017,"PR",1,"Asesinato/Homicidio","Asesinato/Homicidio",710
+2017,"PR",2,"Violación","Violación",209
+2017,"PR",3,"Robo","Robo",3055
+2017,"PR",4,"Agresión Agravada","Agresión Agravada",3814
+2017,"PR",5,"Escalamiento","Escalamiento",7949
+2017,"PR",6,"Apropiación Ilegal","Apropiación Ilegal",19633
+2017,"PR",7,"Hurto de Auto","Hurto de Auto",3594
+2018,"PR",1,"Asesinato/Homicidio","Asesinato/Homicidio",661
+2018,"PR",2,"Violación","Violación",202
+2018,"PR",3,"Robo","Robo",2265
+2018,"PR",4,"Agresión Agravada","Agresión Agravada",3295
+2018,"PR",5,"Escalamiento","Escalamiento",5468
+2018,"PR",6,"Apropiación Ilegal","Apropiación Ilegal",15642
+2018,"PR",7,"Hurto de Auto","Hurto de Auto",3699
+2019,"PR",1,"Asesinato/Homicidio","Asesinato/Homicidio",614
+2019,"PR",2,"Violación","Violación",203
+2019,"PR",3,"Robo","Robo",2097
+2019,"PR",4,"Agresión Agravada","Agresión Agravada",3457
+2019,"PR",5,"Escalamiento","Escalamiento",4254
+2019,"PR",6,"Apropiación Ilegal","Apropiación Ilegal",14219
+2019,"PR",7,"Hurto de Auto","Hurto de Auto",3679
+2020,"PR",1,"Asesinato/Homicidio","Asesinato/Homicidio",544
+2020,"PR",2,"Violación","Violación",146
+2020,"PR",3,"Robo","Robo",1171
+2020,"PR",4,"Agresión Agravada","Agresión Agravada",3308
+2020,"PR",5,"Escalamiento","Escalamiento",2908
+2020,"PR",6,"Apropiación Ilegal","Apropiación Ilegal",8175
+2020,"PR",7,"Hurto de Auto","Hurto de Auto",1969
+2021,"PR",1,"Asesinato/Homicidio","Asesinato/Homicidio",633
+2021,"PR",2,"Violación","Violación",193
+2021,"PR",3,"Robo","Robo",1056
+2021,"PR",4,"Agresión Agravada","Agresión Agravada",3467
+2021,"PR",5,"Escalamiento","Escalamiento",2434
+2021,"PR",6,"Apropiación Ilegal","Apropiación Ilegal",8041
+2021,"PR",7,"Hurto de Auto","Hurto de Auto",2289
+2022,"PR",1,"Asesinato/Homicidio","Asesinato/Homicidio",584
+2022,"PR",2,"Violación","Violación",230
+2022,"PR",3,"Robo","Robo",1187
+2022,"PR",4,"Agresión Agravada","Agresión Agravada",3532
+2022,"PR",5,"Escalamiento","Escalamiento",2528
+2022,"PR",6,"Apropiación Ilegal","Apropiación Ilegal",10130
+2022,"PR",7,"Hurto de Auto","Hurto de Auto",2449
+2023,"PR",1,"Asesinato/Homicidio","Asesinato/Homicidio",473
+2023,"PR",2,"Violación","Violación",336
+2023,"PR",3,"Robo","Robo",1258
+2023,"PR",4,"Agresión Agravada","Agresión Agravada",3806
+2023,"PR",5,"Escalamiento","Escalamiento",2380
+2023,"PR",6,"Apropiación Ilegal","Apropiación Ilegal",9523
+2023,"PR",7,"Hurto de Auto","Hurto de Auto",1949
+2024,"PR",1,"Asesinato/Homicidio","Asesinato/Homicidio",495
+2024,"PR",2,"Violación","Violación",479
+2024,"PR",3,"Robo","Robo",1256
+2024,"PR",4,"Agresión Agravada","Agresión Agravada",4411
+2024,"PR",5,"Escalamiento","Escalamiento",2339
+2024,"PR",6,"Apropiación Ilegal","Apropiación Ilegal",9674
+2024,"PR",7,"Hurto de Auto","Hurto de Auto",2231
+2025,"PR",1,"Asesinato/Homicidio","Asesinato/Homicidio",463
+2025,"PR",2,"Violación","Violación",465
+2025,"PR",3,"Robo","Robo",1032
+2025,"PR",4,"Agresión Agravada","Agresión Agravada",4472
+2025,"PR",5,"Escalamiento","Escalamiento",2478
+2025,"PR",6,"Apropiación Ilegal","Apropiación Ilegal",10001
+2025,"PR",7,"Hurto de Auto","Hurto de Auto",1552
