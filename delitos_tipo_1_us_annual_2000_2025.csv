@@ -1,0 +1,183 @@
+"year","geo","series_order","tipo_delito","offense_type","count"
+2000,"US",1,"Asesinato/Homicidio","Murder/Homicide",15586
+2000,"US",2,"Violación","Rape",90178
+2000,"US",3,"Robo","Robbery",408016
+2000,"US",4,"Agresión Agravada","Aggravated Assault",911706
+2000,"US",5,"Escalamiento","Burglary",2050992
+2000,"US",6,"Apropiación Ilegal","Larceny-theft",6971590
+2000,"US",7,"Hurto de Auto","Motor Vehicle Theft",1160002
+2001,"US",1,"Asesinato/Homicidio","Murder/Homicide",16037
+2001,"US",2,"Violación","Rape",90863
+2001,"US",3,"Robo","Robbery",423557
+2001,"US",4,"Agresión Agravada","Aggravated Assault",909023
+2001,"US",5,"Escalamiento","Burglary",2116531
+2001,"US",6,"Apropiación Ilegal","Larceny-theft",7092267
+2001,"US",7,"Hurto de Auto","Motor Vehicle Theft",1228391
+2002,"US",1,"Asesinato/Homicidio","Murder/Homicide",16229
+2002,"US",2,"Violación","Rape",95235
+2002,"US",3,"Robo","Robbery",420806
+2002,"US",4,"Agresión Agravada","Aggravated Assault",891407
+2002,"US",5,"Escalamiento","Burglary",2151252
+2002,"US",6,"Apropiación Ilegal","Larceny-theft",7057379
+2002,"US",7,"Hurto de Auto","Motor Vehicle Theft",1246646
+2003,"US",1,"Asesinato/Homicidio","Murder/Homicide",16528
+2003,"US",2,"Violación","Rape",93883
+2003,"US",3,"Robo","Robbery",414235
+2003,"US",4,"Agresión Agravada","Aggravated Assault",859030
+2003,"US",5,"Escalamiento","Burglary",2154834
+2003,"US",6,"Apropiación Ilegal","Larceny-theft",7026802
+2003,"US",7,"Hurto de Auto","Motor Vehicle Theft",1261226
+2004,"US",1,"Asesinato/Homicidio","Murder/Homicide",16148
+2004,"US",2,"Violación","Rape",95089
+2004,"US",3,"Robo","Robbery",401470
+2004,"US",4,"Agresión Agravada","Aggravated Assault",847381
+2004,"US",5,"Escalamiento","Burglary",2144446
+2004,"US",6,"Apropiación Ilegal","Larceny-theft",6937089
+2004,"US",7,"Hurto de Auto","Motor Vehicle Theft",1237851
+2005,"US",1,"Asesinato/Homicidio","Murder/Homicide",16740
+2005,"US",2,"Violación","Rape",94347
+2005,"US",3,"Robo","Robbery",417438
+2005,"US",4,"Agresión Agravada","Aggravated Assault",862220
+2005,"US",5,"Escalamiento","Burglary",2155448
+2005,"US",6,"Apropiación Ilegal","Larceny-theft",6783447
+2005,"US",7,"Hurto de Auto","Motor Vehicle Theft",1235859
+2006,"US",1,"Asesinato/Homicidio","Murder/Homicide",17309
+2006,"US",2,"Violación","Rape",94472
+2006,"US",3,"Robo","Robbery",449246
+2006,"US",4,"Agresión Agravada","Aggravated Assault",874096
+2006,"US",5,"Escalamiento","Burglary",2194993
+2006,"US",6,"Apropiación Ilegal","Larceny-theft",6626363
+2006,"US",7,"Hurto de Auto","Motor Vehicle Theft",1198245
+2007,"US",1,"Asesinato/Homicidio","Murder/Homicide",17128
+2007,"US",2,"Violación","Rape",92160
+2007,"US",3,"Robo","Robbery",447324
+2007,"US",4,"Agresión Agravada","Aggravated Assault",866358
+2007,"US",5,"Escalamiento","Burglary",2190198
+2007,"US",6,"Apropiación Ilegal","Larceny-theft",6591542
+2007,"US",7,"Hurto de Auto","Motor Vehicle Theft",1100472
+2008,"US",1,"Asesinato/Homicidio","Murder/Homicide",16465
+2008,"US",2,"Violación","Rape",90750
+2008,"US",3,"Robo","Robbery",443563
+2008,"US",4,"Agresión Agravada","Aggravated Assault",843683
+2008,"US",5,"Escalamiento","Burglary",2228887
+2008,"US",6,"Apropiación Ilegal","Larceny-theft",6586206
+2008,"US",7,"Hurto de Auto","Motor Vehicle Theft",959059
+2009,"US",1,"Asesinato/Homicidio","Murder/Homicide",15399
+2009,"US",2,"Violación","Rape",89241
+2009,"US",3,"Robo","Robbery",408742
+2009,"US",4,"Agresión Agravada","Aggravated Assault",812514
+2009,"US",5,"Escalamiento","Burglary",2203313
+2009,"US",6,"Apropiación Ilegal","Larceny-theft",6338095
+2009,"US",7,"Hurto de Auto","Motor Vehicle Theft",795652
+2010,"US",1,"Asesinato/Homicidio","Murder/Homicide",14722
+2010,"US",2,"Violación","Rape",85593
+2010,"US",3,"Robo","Robbery",369089
+2010,"US",4,"Agresión Agravada","Aggravated Assault",781844
+2010,"US",5,"Escalamiento","Burglary",2168459
+2010,"US",6,"Apropiación Ilegal","Larceny-theft",6204601
+2010,"US",7,"Hurto de Auto","Motor Vehicle Theft",739565
+2011,"US",1,"Asesinato/Homicidio","Murder/Homicide",14661
+2011,"US",2,"Violación","Rape",84175
+2011,"US",3,"Robo","Robbery",354746
+2011,"US",4,"Agresión Agravada","Aggravated Assault",752423
+2011,"US",5,"Escalamiento","Burglary",2185140
+2011,"US",6,"Apropiación Ilegal","Larceny-theft",6151095
+2011,"US",7,"Hurto de Auto","Motor Vehicle Theft",716508
+2012,"US",1,"Asesinato/Homicidio","Murder/Homicide",14856
+2012,"US",2,"Violación","Rape",85141
+2012,"US",3,"Robo","Robbery",355051
+2012,"US",4,"Agresión Agravada","Aggravated Assault",762009
+2012,"US",5,"Escalamiento","Burglary",2109932
+2012,"US",6,"Apropiación Ilegal","Larceny-theft",6168874
+2012,"US",7,"Hurto de Auto","Motor Vehicle Theft",723186
+2013,"US",1,"Asesinato/Homicidio","Murder/Homicide",14319
+2013,"US",2,"Violación","Rape",113695
+2013,"US",3,"Robo","Robbery",345093
+2013,"US",4,"Agresión Agravada","Aggravated Assault",726777
+2013,"US",5,"Escalamiento","Burglary",1932139
+2013,"US",6,"Apropiación Ilegal","Larceny-theft",6019465
+2013,"US",7,"Hurto de Auto","Motor Vehicle Theft",700288
+2014,"US",1,"Asesinato/Homicidio","Murder/Homicide",14164
+2014,"US",2,"Violación","Rape",118027
+2014,"US",3,"Robo","Robbery",322905
+2014,"US",4,"Agresión Agravada","Aggravated Assault",731089
+2014,"US",5,"Escalamiento","Burglary",1713153
+2014,"US",6,"Apropiación Ilegal","Larceny-theft",5809054
+2014,"US",7,"Hurto de Auto","Motor Vehicle Theft",686803
+2015,"US",1,"Asesinato/Homicidio","Murder/Homicide",15883
+2015,"US",2,"Violación","Rape",126134
+2015,"US",3,"Robo","Robbery",328109
+2015,"US",4,"Agresión Agravada","Aggravated Assault",764057
+2015,"US",5,"Escalamiento","Burglary",1587564
+2015,"US",6,"Apropiación Ilegal","Larceny-theft",5723488
+2015,"US",7,"Hurto de Auto","Motor Vehicle Theft",713063
+2016,"US",1,"Asesinato/Homicidio","Murder/Homicide",17413
+2016,"US",2,"Violación","Rape",132414
+2016,"US",3,"Robo","Robbery",332797
+2016,"US",4,"Agresión Agravada","Aggravated Assault",802982
+2016,"US",5,"Escalamiento","Burglary",1516405
+2016,"US",6,"Apropiación Ilegal","Larceny-theft",5644835
+2016,"US",7,"Hurto de Auto","Motor Vehicle Theft",767290
+2017,"US",1,"Asesinato/Homicidio","Murder/Homicide",17294
+2017,"US",2,"Violación","Rape",135666
+2017,"US",3,"Robo","Robbery",320596
+2017,"US",4,"Agresión Agravada","Aggravated Assault",810319
+2017,"US",5,"Escalamiento","Burglary",1397045
+2017,"US",6,"Apropiación Ilegal","Larceny-theft",5513000
+2017,"US",7,"Hurto de Auto","Motor Vehicle Theft",772943
+2018,"US",1,"Asesinato/Homicidio","Murder/Homicide",16374
+2018,"US",2,"Violación","Rape",143765
+2018,"US",3,"Robo","Robbery",281278
+2018,"US",4,"Agresión Agravada","Aggravated Assault",810982
+2018,"US",5,"Escalamiento","Burglary",1235013
+2018,"US",6,"Apropiación Ilegal","Larceny-theft",5232167
+2018,"US",7,"Hurto de Auto","Motor Vehicle Theft",751904
+2019,"US",1,"Asesinato/Homicidio","Murder/Homicide",16669
+2019,"US",2,"Violación","Rape",143224
+2019,"US",3,"Robo","Robbery",268483
+2019,"US",4,"Agresión Agravada","Aggravated Assault",822017
+2019,"US",5,"Escalamiento","Burglary",1118096
+2019,"US",6,"Apropiación Ilegal","Larceny-theft",5152267
+2019,"US",7,"Hurto de Auto","Motor Vehicle Theft",724872
+2020,"US",1,"Asesinato/Homicidio","Murder/Homicide",21570
+2020,"US",2,"Violación","Rape",126430
+2020,"US",3,"Robo","Robbery",243600
+2020,"US",4,"Agresión Agravada","Aggravated Assault",921505
+2020,"US",5,"Escalamiento","Burglary",1035314
+2020,"US",6,"Apropiación Ilegal","Larceny-theft",4606324
+2020,"US",7,"Hurto de Auto","Motor Vehicle Theft",810400
+2021,"US",1,"Asesinato/Homicidio","Murder/Homicide",21463
+2021,"US",2,"Violación","Rape",143988
+2021,"US",3,"Robo","Robbery",186327
+2021,"US",4,"Agresión Agravada","Aggravated Assault",877648
+2021,"US",5,"Escalamiento","Burglary",876906
+2021,"US",6,"Apropiación Ilegal","Larceny-theft",4255330
+2021,"US",7,"Hurto de Auto","Motor Vehicle Theft",803104
+2022,"US",1,"Asesinato/Homicidio","Murder/Homicide",21939
+2022,"US",2,"Violación","Rape",142497
+2022,"US",3,"Robo","Robbery",224091
+2022,"US",4,"Agresión Agravada","Aggravated Assault",910014
+2022,"US",5,"Escalamiento","Burglary",910312
+2022,"US",6,"Apropiación Ilegal","Larceny-theft",4729171
+2022,"US",7,"Hurto de Auto","Motor Vehicle Theft",949518
+2023,"US",1,"Asesinato/Homicidio","Murder/Homicide",19907
+2023,"US",2,"Violación","Rape",134517
+2023,"US",3,"Robo","Robbery",225969
+2023,"US",4,"Agresión Agravada","Aggravated Assault",897908
+2023,"US",5,"Escalamiento","Burglary",852963
+2023,"US",6,"Apropiación Ilegal","Larceny-theft",4579322
+2023,"US",7,"Hurto de Auto","Motor Vehicle Theft",1082010
+2024,"US",1,"Asesinato/Homicidio","Murder/Homicide",16935
+2024,"US",2,"Violación","Rape",127527
+2024,"US",3,"Robo","Robbery",205952
+2024,"US",4,"Agresión Agravada","Aggravated Assault",870931
+2024,"US",5,"Escalamiento","Burglary",779542
+2024,"US",6,"Apropiación Ilegal","Larceny-theft",4326531
+2024,"US",7,"Hurto de Auto","Motor Vehicle Theft",880327
+2025,"US",1,"Asesinato/Homicidio","Murder/Homicide",14236
+2025,"US",2,"Violación","Rape",121610
+2025,"US",3,"Robo","Robbery",165516
+2025,"US",4,"Agresión Agravada","Aggravated Assault",786912
+2025,"US",5,"Escalamiento","Burglary",644994
+2025,"US",6,"Apropiación Ilegal","Larceny-theft",3793864
+2025,"US",7,"Hurto de Auto","Motor Vehicle Theft",661777
